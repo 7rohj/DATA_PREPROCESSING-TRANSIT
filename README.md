@@ -1,7 +1,7 @@
 ## (진행중) ui 만들기 ... ★
 ![image](https://github.com/7rohj/DATA_PREPROCESSING-TRANSIT/assets/99319638/3951f49e-99ff-437e-8857-fe2687adf618)
 
-df_values = np.array([list(line.strip().split('\t')) for line in lines]) .split('\t') 때문에 한참 헤맸다.. 휴 ..
+df_values = np.array([list(line.strip().split('\t')) for line in lines]) .split('\t') 때문에 한참 헤맸다.. 휴 .. </br>
 셀간격도 창안에 다 들어가도록 default 값을 50으로 줄임. 근데 그러니까 columnname 이 다 안보임 ..
  
 ![image](https://github.com/7rohj/DATA_PREPROCESSING-TRANSIT/assets/99319638/a80cd986-9cf4-45dc-9954-c2c9cb8894c6)
